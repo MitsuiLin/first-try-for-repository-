@@ -317,3 +317,4 @@ ax.tick_params(axis='both',labelsize=14)
 
 plt.show()
 
+# genggai
